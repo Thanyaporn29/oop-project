@@ -15,8 +15,8 @@ README.md
   * รายละเอียดโครงงาน
 
 # presentation: 
-[slide/canva/etc...]  link [public/ubu]
+  * [slide/canva/etc...]  link [public/ubu]
 
 ## video: link 
-[public/ubu]
+  * [public/ubu]
 xoxoxo
