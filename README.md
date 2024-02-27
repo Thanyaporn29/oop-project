@@ -9,12 +9,12 @@ README.md
   * id: ---
   * name: first last
    
-# technology: [pygame/streamlit]
+## technology: [pygame/streamlit]
   
-# application description:
+## application description:
   * รายละเอียดโครงงาน
 
-# presentation: 
+## presentation: 
   * [slide/canva/etc...]  link [public/ubu]
 
 ## video: link 
