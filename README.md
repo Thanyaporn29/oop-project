@@ -4,7 +4,7 @@ https://github.com/aaaa/oop-project
 README.md
 
 # application title
-* เว็บไซต์การคำนวณหาวันไข่ตก
+* เว็บไซต์การคำนวณหาวันไข่ตก (Ovulation calculator website)
 ## auhor:
   * id: 66114540300
   * name: นางสาวธัญพร บุญศรี
