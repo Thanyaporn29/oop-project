@@ -4,10 +4,10 @@ https://github.com/aaaa/oop-project
 README.md
 
 # application title
-
+* เว็บไซต์การคำนวณหาวันไข่ตก
 ## auhor:
-  * id: ---
-  * name: first last
+  * id: 66114540300
+  * name: นางสาวธัญพร บุญศรี
    
 ## technology: [pygame/streamlit]
   
@@ -17,6 +17,7 @@ README.md
 ## presentation: 
   * [slide/canva/etc...]  link [public/ubu]
 
-## video: link 
+## video: link (คลิปนำเสนอโปรเจ็ค)
   * [public/ubu]
+    
 xoxoxo
